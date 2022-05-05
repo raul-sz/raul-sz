@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @raul-sz
 - I work at a brewery on a ABB 800xA control system.
-- 🌱 I’m currently learning Node-Red to get data out the system via OPC.
 - 📫 You can find me at raul_sz@hotmail.com
 
 <!---
